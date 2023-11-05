@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Wenda! 👋 
 
 <!--
 **wendachye/wendachye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendachye&theme=transparent&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendachye&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 <a href="https://github.com/wendachye">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendachye&theme=transparent&show_icons=true" />
