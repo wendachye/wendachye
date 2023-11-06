@@ -1,4 +1,4 @@
-### Hi there, I'm Wenda! 👋 
+## Hi there, I'm Wenda! 👋 
 
 <!--
 **wendachye/wendachye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 👨🏻‍💻 About Me
+### 👨🏻‍💻 About Me
 
 - 🔭 I’m currently working as a Full Stack Engineer
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on a large Project like a Blockchain or Web3 etc
 - 📫 How to reach me: wendachye@gmail.com or <a href="https://www.linkedin.com/in/wendachye">LinkedIn</a>
 
-#### 🛠 Tech Stack
+### 🛠 Tech Stack
 
 - 💻
   <img height="18px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
